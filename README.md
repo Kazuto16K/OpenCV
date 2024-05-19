@@ -9,3 +9,7 @@ Tutorial 4 - DRAWING LINES AND SHAPES
 Tutorial 5 - COLOURS AND COLOUR DETECTION
 
 Tutorial 6 - CORNER DETECTION IN AN IMAGE
+
+Tutorial 7 - OBJECT DETECTION (Template Matching) with label
+
+Tutorial 8 - LIVE FACE AND EYE DETECTION/TRACKING with label
